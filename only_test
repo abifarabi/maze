@@ -1,0 +1,3 @@
+def test(name, project):
+  print('Hello guys, my name is', name)
+  print('I wanna show you my nice project that I called with', project)
